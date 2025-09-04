@@ -48,6 +48,3 @@ The following Python packages are required for this project:
 
 - **Why UV?**  
    UV is a modern, high-performance alternative to pip, offering faster dependency resolution and installation. It simplifies project setup and ensures a clean virtual environment. Learn more at [UV’s official documentation](https://docs.astral.sh/uv/).
-
-- **License**:  
-   This project is licensed under the MIT License. See the `LICENSE` file for details.
